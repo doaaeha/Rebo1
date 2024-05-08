@@ -1,0 +1,16 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is A45B-DD6E
+
+ Directory of C:\Users\doaai\automation\CucumberProjectJava
+
+08/05/2024  21:31    <DIR>          .
+08/05/2024  21:12    <DIR>          ..
+07/05/2024  17:14             1.609 .classpath
+07/05/2024  18:47               862 .project
+07/05/2024  17:14    <DIR>          .settings
+07/05/2024  21:43             1.342 pom.xml
+07/05/2024  17:14    <DIR>          src
+07/05/2024  19:38    <DIR>          target
+08/05/2024  21:31                 0 test1.test
+               4 File(s)          3.813 bytes
+               5 Dir(s)  434.579.410.944 bytes free
